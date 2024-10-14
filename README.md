@@ -1,5 +1,6 @@
 # 100 Days Of Machine Learning
 
-1. [Day01 - What is data?](https://github.com/nikendrashekhawat/100DaysOfML/blob/57b6c10051ded4df406fe8aa134ee0ef591aa1f2/Day01.ipynb)
+1. [Day01 - What is data?](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day01.ipynb)
+2. [Day02 - Estimates of Location](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day02.ipynb)
 
 
