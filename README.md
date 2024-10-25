@@ -5,4 +5,5 @@
 2. [Day02 - Estimates of Location](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day02.ipynb)
 3. [Day03 - Estimates of Variability](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day03.ipynb)
 4. [Day04 - Data Visualization: Charts and graphs](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day04.ipynb)
+5. [Day05 - Data Visualization: Continuation...](https://github.com/nikendrashekhawat/100DaysOfML/blob/main/Day05.ipynb)
 
